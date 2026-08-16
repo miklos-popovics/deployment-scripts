@@ -2,3 +2,4 @@ chemicals.csv
 application-prod.properties
 fluid-change-rules.json
 haproxy/letsencrypt/*
+.idea/*
